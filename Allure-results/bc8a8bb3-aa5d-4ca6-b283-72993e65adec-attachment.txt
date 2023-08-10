@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_Login:test_login.py:41 test case test_login_002 is Started
+[32mINFO    [0m Test_Login:test_login.py:42 Opening Browser
+[32mINFO    [0m Test_Login:test_login.py:45 Entering Username :
+[32mINFO    [0m Test_Login:test_login.py:47 Entering Password :
+[32mINFO    [0m Test_Login:test_login.py:50 Clicking in Login Button
+[32mINFO    [0m Test_Login:test_login.py:53 Clicking on Menu Button
+[32mINFO    [0m Test_Login:test_login.py:56 Clicking on Logout Button

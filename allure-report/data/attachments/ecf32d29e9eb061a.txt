@@ -1,0 +1,7 @@
+INFO     Test_Login:test_login.py:30 test case test_login_002 is Started
+INFO     Test_Login:test_login.py:31 Opening Browser
+INFO     Test_Login:test_login.py:34 Entering Username :
+INFO     Test_Login:test_login.py:36 Entering Password :
+INFO     Test_Login:test_login.py:39 Clicking in Login Button
+INFO     Test_Login:test_login.py:42 Clicking on Menu Button
+INFO     Test_Login:test_login.py:45 Clicking on Logout Button

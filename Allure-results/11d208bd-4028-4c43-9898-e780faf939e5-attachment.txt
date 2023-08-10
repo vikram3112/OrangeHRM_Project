@@ -1,0 +1,5 @@
+[32mINFO    [0m Test_Login:test_login.py:20 TestCase Pagetitle is started
+[32mINFO    [0m Test_Login:test_login.py:21 opening browser
+[32mINFO    [0m Test_Login:test_login.py:23 Page Title is : OrangeHRM
+[32mINFO    [0m Test_Login:test_login.py:25 Taking screenshot
+[32mINFO    [0m Test_Login:test_login.py:30 Test Case test_pagetitle is passed
